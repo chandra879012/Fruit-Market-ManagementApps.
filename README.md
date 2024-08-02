@@ -1,4 +1,4 @@
-![Contoh Gambar](Beige and Orange Retro Fresh Market Festival Welcome Banner/images.png)
+![Contoh Gambar](https://github.com/chandra879012/Fruit-Market-ManagementApps./blob/main/Beige%20and%20Orange%20Retro%20Fresh%20Market%20Festival%20Welcome%20Banner.png)
 
 ## About
 
