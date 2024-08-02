@@ -13,7 +13,7 @@ FruitMarket application was released in 2024 and developed by MarcCorp Inc. Help
 
 To get this project, you can clone it by running the following code:
 
-    git clone git@github.com:fandanabil1379/Fruit-Inventory-Management-Apps.git
+    https://github.com/chandra879012/Fruit-Market-ManagementApps.?tab=readme-ov-file
 
     
 ## Project Organization
@@ -35,7 +35,7 @@ The directory structure of FruitMarket project looks like this:
 
 If you'd like to contribute, feel free to contact me here:
 
-<a href="https://www.linkedin.com/in/chandradriastama/" target="_blank">
+<a href="https://www.linkedin.com/in/chandra-driastama-65b204217/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
   <a href="mailto:chandradriastama.@gmail.com" target="_blank">
