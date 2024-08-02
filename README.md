@@ -1,4 +1,4 @@
-![Header](./docs/Beige and Orange Retro Fresh Market Festival Welcome Banner.png)
+![Contoh Gambar](Beige and Orange Retro Fresh Market Festival Welcome Banner/images.png)
 
 ## About
 
